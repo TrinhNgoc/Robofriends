@@ -1,2 +1,2 @@
 # Robofriends
-Searching robot friends with React
+Searching robot friends with React + Redux
