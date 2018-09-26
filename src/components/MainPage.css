@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee+Shade");
+
+h1 {
+  font-family: "Bungee Shade", cursive;
+  font-weight: bold;
+  color: #ffbc25;
+  letter-spacing: 4px;
+}
